@@ -575,11 +575,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lookRadius: 26
   smoothOfRot: 15
+  damage: 5
   m_LayerMask:
     serializedVersion: 2
     m_Bits: 2048
   biteRadius: 2
   bitePoint: {fileID: 7391484456731779778}
+  enableDebugSphere: 0
 --- !u!195 &7391484457643802564
 NavMeshAgent:
   m_ObjectHideFlags: 0

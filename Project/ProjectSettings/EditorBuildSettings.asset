@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/StartLevel.unity
+    path: Assets/Maps/StartLevel.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Planet.unity
+    path: Assets/Maps/Planet.unity
     guid: 0334fa640c68e724785d05fd1c142eb6
   m_configObjects: {}
